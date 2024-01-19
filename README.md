@@ -1,5 +1,5 @@
 ### Hi there 👋
-###I am A Unity Game Developer Who love to create a Virtual Reality that reflect our physical world
+I am A Unity Game Developer Who love to create a Virtual Reality that reflect our physical world
 
 <!--
 **Eular6996/Eular6996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
