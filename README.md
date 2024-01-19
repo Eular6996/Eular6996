@@ -1,5 +1,9 @@
-### Hi there 👋
-I am A Unity Game Developer Who love to create a Virtual Reality that reflect our physical world
+### Hey! 👋
+I'm a Unity game Programmer with a passion for crafting 2D games 🎮 My world revolves around the perfect blend of math, physics, and programming.
+
+🚀 Game Programmer | 🔢 Math & Physics Enthusiast 
+
+I enjoy bringing the cool stuff from physics and math into fun video games!
 
 <!--
 **Eular6996/Eular6996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
